@@ -1,9 +1,7 @@
 # 👋 Hi, I’m @emexalt (Em Cariglino).
  
 
-  i work at one of the larger telecommunications companies in the United States, primarily on operational support software (If you look REALLY closely at my profile you'll see which one). 
-
-Please contact me [via email at emmeryn.dev@gmail.com](mailto:emmeryn.dev@gmail.com).
+  I used to work at one of the larger telecommunications companies in the United States, primarily on operational support software. Nobody gets me. I'm like the wind, baby.
 
 <!---
 emexalt/emexalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
